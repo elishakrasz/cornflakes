@@ -1,0 +1,20 @@
+{
+    "five": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-silver-five-144725-authRole",
+            "UnauthRoleArn": "arn:aws:iam::556347854058:role/amplify-silver-five-144725-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::556347854058:role/amplify-silver-five-144725-authRole",
+            "Region": "eu-west-2",
+            "DeploymentBucketName": "amplify-silver-five-144725-deployment",
+            "UnauthRoleName": "amplify-silver-five-144725-unauthRole",
+            "StackName": "amplify-silver-five-144725",
+            "StackId": "arn:aws:cloudformation:eu-west-2:556347854058:stack/amplify-silver-five-144725/0450cc20-3b83-11ea-ba79-0aad4e0395e8",
+            "AmplifyAppId": "deei78gnq7y7g"
+        },
+        "categories": {
+            "auth": {
+                "silver51da728a": {}
+            }
+        }
+    }
+}
